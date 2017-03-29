@@ -23,8 +23,8 @@
 [Qiita](http://qiita.com "Qiita")
 ![ダミー画像](http://placehold.it/100)
 ![ダミー画像](http://placehold.it/100 "ダミー画像")
- 結果
- | Left align | Right align | Center align |
+
+| Left align | Right align | Center align |
 |:-----------|------------:|:------------:|
 | This       |        This |     This     |
 | column     |      column |    column    |
